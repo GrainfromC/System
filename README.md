@@ -1,6 +1,5 @@
 # system.js
 一个浏览器端流程控制框架 自娱自乐的小 Lib :)
-A tool to control the process in the browser side.
 ```html
 <!DOCTYPE html>
 <html>
